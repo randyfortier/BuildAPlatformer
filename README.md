@@ -1,6 +1,6 @@
 # Build your own 2D Platformer!
 
-This
+This tutorial will teach you everything you need to get started on developing a simple 2D platformer game in Unity.
 
 ## Building the Platforms
 
